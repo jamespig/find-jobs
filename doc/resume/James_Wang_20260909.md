@@ -8,13 +8,17 @@
 
 ## 個人摘要
 
-具 3 年以上前端與系統開發經驗，能將模糊的產品需求、API 規格與多角色意見整理成可實作流程，並完成 Vue／Nuxt 產品開發、前後端串接、驗收與上線。曾擔任 B2B 零售與訂單管理平台的主要前端開發者；現於藍新金流負責商家與內部管理後台功能、複雜狀態流程與核心功能重構。
+具 3 年以上前端與系統開發經驗，主要使用 Vue／Nuxt，能將模糊的產品需求、API 規格與多角色意見整理成可實作流程，並完成前後端串接、驗收與上線；現於藍新金流負責商家與內部管理後台的複雜狀態流程與核心功能重構。
+
+## 精選經驗
+
+- **B2B 平台第二版交付：** 擔任主要前端開發者，參與釐清交易情境與角色權限，於 2025/02–06 完成核心模組、串接正式後端並部署至 production。
+- **五步驟流程重構：** 將分散於 15 支 Vue／Pinia 檔案的商店建立流程重整為由主控元件協調的單向資料流，並通過 PM、QA 全面驗收。
 
 ## 核心能力
 
-- **需求釐清與產品交付：** 整理使用情境、規格缺口、API 參數與跨角色認知差異，將問題轉化為可實作流程。
-- **前端架構與維護：** 單向資料流、Feature-based 結構、多狀態表單、Vue Router、Pinia、Composable／Utility 封裝、共用 UI 元件與 Monorepo。
-- **協作與工程流程：** Product／Design／Backend／QA 規格對齊、技術文件、Code Review、Git 協作、問題追蹤與上版協調。
+- **產品交付與協作：** 使用情境、規格缺口與 API 參數釐清；Product／Design／Backend／QA 對齊、技術文件、Code Review 與上版協調。
+- **前端架構與維護：** Feature-based 結構、多狀態表單、Vue Router、Pinia、Composable／Utility 封裝、共用 UI 元件與 Monorepo。
 - **技術：** Vue 3、Nuxt、TypeScript、JavaScript、HTML、CSS／SCSS、Tailwind CSS；另具 React／Next.js、Angular／.NET 專案經驗。
 
 
@@ -64,12 +68,13 @@
 
 ### RELIST
 
-**網站：** [relist.cc/discovery](https://relist.cc/discovery)（平台以手機用戶為優先考量）  
+**業餘協作專案｜名單分享社群**  
+**網站：** [relist.cc/discovery](https://relist.cc/discovery)  
 **期間：** 2025/02–2025/12
 
-- 負責 Home Feed 前端開發，與產品及設計端討論功能範圍、實作可行性與技術限制。
-- 因社群分享與 Dynamic Metadata 需求，主導 React／Vite 遷移至 Next.js，改善內容分享 Preview 與後續 SEO／Metadata 擴充能力。
-- 處理樂觀更新造成的跨頁狀態不同步，並提供響應式設計與元件規範建議。
+- 負責 Home Feed 前端開發，與產品及設計成員討論功能範圍、實作可行性與元件規格。
+- 為使名單分享預覽呈現使用者上傳的封面，主導 React／Vite 遷移至 Next.js，並依頁面內容與互動需求規劃伺服器端及客戶端渲染。
+- 處理追蹤功能的跨頁狀態同步，使個人主頁與清單頁上的追蹤按鈕，在操作後呈現一致狀態。
 
 
 
